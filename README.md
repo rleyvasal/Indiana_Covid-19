@@ -6,7 +6,7 @@ Code for extracting and restructuring Covid-19 data for the state of Indiana
 
 Place run_results.csv file in the same directory as the python file data_wrangling_for_run_results and run the python script (data_wrangling_for_run_results.py restructures the data in run_results.csv file )
 
-*Instructions for downloaded new data:*
+*Instructions to download new data:*
 
 Import DataExtract.phj file into Parsehub app and click Get Data button then click Run button
 After pasehub is finished, download file as CSV/Excel Wide(beta) (click on down arrow on green button CSV/Excel)
